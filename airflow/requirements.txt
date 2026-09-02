@@ -1,0 +1,16 @@
+apache-airflow
+pandas
+sqlalchemy
+psycopg2-binary
+pymysql
+requests
+minio
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl
+dbt-core
+dbt-postgres
+xlrd
